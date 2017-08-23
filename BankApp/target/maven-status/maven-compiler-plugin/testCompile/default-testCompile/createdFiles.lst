@@ -1,0 +1,8 @@
+org\cap\bankapp\test\BadTestCategory.class
+org\cap\bankapp\test\MockitoTest.class
+org\cap\bankapp\test\BankAppTestCase.class
+org\cap\bankapp\test\MyBankAppTestCaseSuite.class
+org\cap\bankapp\test\ParameterizedTestCase.class
+org\cap\bankapp\test\GoodTestCategory.class
+org\cap\bankapp\test\MyCategoryTest.class
+org\cap\bankapp\test\MyTestCase.class
